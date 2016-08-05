@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://www.dropbox.com/s/qc4rp2243njtbpm/MagicMikeApproves.jpg?raw=1"
+name: "Mike Chernev"
+title: "Senior Entertainer"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
